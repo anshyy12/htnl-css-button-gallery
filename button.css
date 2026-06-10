@@ -1,0 +1,83 @@
+body{
+    padding:0px;
+    margin: 10px;
+    
+}
+.uber{
+    background-color: black;
+    color: white;
+    height: 60px;
+    width:140px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.amazon{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 30px;
+    width: 140px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    border-radius:8px;
+    cursor: pointer;
+    height: 40px;
+    width:100px;
+}
+.boots{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+}
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+    width:100px;
+    margin-right: 6px;
+}
+.trap{
+    background-color: rgb(255, 255, 255);
+    color: grey;
+    border: 2px solid rgba(128, 128, 128, 0.304);
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+    width:100px;
+}
+.link{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 400px;
+    display: inline-block;
+    padding: 20px;
+}
+.linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 40px;
+    width:210px;
+    margin-right: 6px;
+}
+.save{
+    background-color: rgb(255, 255, 255);
+    color: rgb(10,102,194);
+    border: 1px solid rgb(10, 108, 194);
+    border-radius: 20px;
+    cursor: pointer;
+    height: 40px;
+    width:75px;
+}
